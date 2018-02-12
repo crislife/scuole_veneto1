@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 ######################################
 # Scraper Scuole Italiane (Susanna Martinelli)
