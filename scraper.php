@@ -11,9 +11,9 @@ require  'scraperwiki/simple_html_dom.php';
 
 $prov_veneto = array("BELLUNO","PADOVA","ROVIGO","TREVISO","VENEZIA","VERONA","VICENZA");
 
-$tipologie=array("CENTRO TERRITORIALE PERMANENTE",
-                 "CIRCOLO DIDATTICO",
-                 "CORSO SERALE",
+$tipologie=array("Regione",
+                 "Provincia",
+                 "Data fine percorso",
                  "ISTITUTO COMPRENSIVO",
                  "ISTITUTO DI ISTRUZIONE SUPERIORE",
                  "SCUOLA DELL'INFANZIA",
